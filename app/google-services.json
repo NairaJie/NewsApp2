@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853767087487",
+    "project_id": "newsapp---naira",
+    "storage_bucket": "newsapp---naira.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853767087487:android:ba93f13e41471ae90e664a",
+        "android_client_info": {
+          "package_name": "com.nailah.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853767087487-9pe3lb436vpbi6liclb87otgo85ab2qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9PU66FD2a7P5J0kz6sXdcN8Deb2CL5wM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853767087487-9pe3lb436vpbi6liclb87otgo85ab2qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
